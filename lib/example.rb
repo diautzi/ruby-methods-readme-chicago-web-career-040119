@@ -1,5 +1,5 @@
 # Use this space to code along with the readme
-def put_phrase_ten_times 
+def say_hello_ten_times 
   phrase = "Hello World!"
   puts phrase
   puts phrase
@@ -13,3 +13,4 @@ def put_phrase_ten_times
   puts phrase
 end
 
+say_hello_ten_times
