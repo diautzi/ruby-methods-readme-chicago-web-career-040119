@@ -10,5 +10,6 @@ def put_phrase_ten_times
   puts phrase
   puts phrase
   puts phrase
-puts phrase
+  puts phrase
 end
+
